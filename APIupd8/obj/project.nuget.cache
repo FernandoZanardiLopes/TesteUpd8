@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m6jJWMASa3EmzfbhKab1MGj3NY7l+GejlVDZzKcFaLQxsJ2YJgI97lsJRcdM2tAepvAonftXmR5TcGot48KcIw==",
+  "dgSpecHash": "PfUeQFmvVfo+vqwwoo1uG6wz+egoKBlmsruqGd8hhwt1TFoLF9xmE8tqO5bKyFpLewHvbIMOwxHCn4m5YIAqxw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fzana\\Documents\\Projetos\\APIupd8\\APIupd8.csproj",
+  "projectFilePath": "C:\\Users\\fzana\\Documents\\Projetos\\TesteUpd8\\APIupd8\\APIupd8.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fzana\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\fzana\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

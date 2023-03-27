@@ -5917,11 +5917,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fzana\\Documents\\Projetos\\APIupd8\\APIupd8.csproj",
+      "projectUniqueName": "C:\\Users\\fzana\\Documents\\Projetos\\TesteUpd8\\APIupd8\\APIupd8.csproj",
       "projectName": "APIupd8",
-      "projectPath": "C:\\Users\\fzana\\Documents\\Projetos\\APIupd8\\APIupd8.csproj",
+      "projectPath": "C:\\Users\\fzana\\Documents\\Projetos\\TesteUpd8\\APIupd8\\APIupd8.csproj",
       "packagesPath": "C:\\Users\\fzana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fzana\\Documents\\Projetos\\APIupd8\\obj\\",
+      "outputPath": "C:\\Users\\fzana\\Documents\\Projetos\\TesteUpd8\\APIupd8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fzana\\AppData\\Roaming\\NuGet\\NuGet.Config",

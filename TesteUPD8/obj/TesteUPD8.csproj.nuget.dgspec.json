@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fzana\\Documents\\Projetos\\TesteUPD8\\TesteUPD8.csproj": {}
+    "C:\\Users\\fzana\\Documents\\Projetos\\TesteUpd8\\TesteUPD8\\TesteUPD8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fzana\\Documents\\Projetos\\TesteUPD8\\TesteUPD8.csproj": {
+    "C:\\Users\\fzana\\Documents\\Projetos\\TesteUpd8\\TesteUPD8\\TesteUPD8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fzana\\Documents\\Projetos\\TesteUPD8\\TesteUPD8.csproj",
+        "projectUniqueName": "C:\\Users\\fzana\\Documents\\Projetos\\TesteUpd8\\TesteUPD8\\TesteUPD8.csproj",
         "projectName": "TesteUPD8",
-        "projectPath": "C:\\Users\\fzana\\Documents\\Projetos\\TesteUPD8\\TesteUPD8.csproj",
+        "projectPath": "C:\\Users\\fzana\\Documents\\Projetos\\TesteUpd8\\TesteUPD8\\TesteUPD8.csproj",
         "packagesPath": "C:\\Users\\fzana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fzana\\Documents\\Projetos\\TesteUPD8\\obj\\",
+        "outputPath": "C:\\Users\\fzana\\Documents\\Projetos\\TesteUpd8\\TesteUPD8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fzana\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,6 +55,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[5.0.17, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[109.0.1, )"
             },
             "System.Data.SqlClient": {
               "target": "Package",
